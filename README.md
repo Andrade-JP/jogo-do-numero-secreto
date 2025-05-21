@@ -1,1 +1,3 @@
-Jogo desenvolvido no cursos da Alura, usando HTML, CSS e Javascript onde seu principal objetivo é sortear um número e o usuário deve acert=a-lo com base nas dicas dadas.
+Jogo desenvolvido no cursos da Alura;
+HTML, CSS e Javascript;
+Seu principal objetivo é sortear um número e o usuário deve acertá-lo com base nas dicas dadas.
